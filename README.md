@@ -17,7 +17,7 @@ cd Project-TV-Script-Generation-Udacity
 2. Now please open the file with filename: dlnd_tv_script_generation.ipynb
 
 
-# Dependcies:
+# Dependencies:
 
 - Make sure to create an environment for running this project using conda (you can install [Miniconda](http://conda.pydata.org/miniconda.html) for this
 
