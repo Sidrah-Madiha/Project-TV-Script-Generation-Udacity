@@ -2,7 +2,7 @@
 This is the fourth project of Deep Learning Nanodegree Program (Using a DCGAN on the CelebA dataset to generate images of new and realistic human faces.)
 
 
-# Project: TV Script Generator
+# Project Overview: TV Script Generator
 In this project, I have generated my own Seinfeld TV scripts using RNNs.I have used part of the Seinfeld dataset of scripts from 9 seasons. The Neural Network build will generate a new ,"fake" TV script, based on patterns it recognizes in the training data.
 
 # Installation:
